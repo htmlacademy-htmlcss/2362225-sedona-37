@@ -153,7 +153,7 @@ body {
   height: 72px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url(../images/advantages-section/advantages-home-icon.svg);
+  background-image: url(../images/icon/house.svg);
   background-repeat: no-repeat;
 }
 
@@ -164,7 +164,7 @@ body {
   height: 70px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url(../images/advantages-section/advantages-food-icon.svg);
+  background-image: url(../images/icon/food.svg);
   background-repeat: no-repeat;
 }
 
@@ -175,7 +175,7 @@ body {
   height: 76px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url(../images/advantages-section/advantages-gift-icon.svg);
+  background-image: url(../images/icon/present.svg);
   background-repeat: no-repeat;
 }
 
@@ -219,7 +219,7 @@ body {
 }
 
 .subscription_background {
-  background-image: url(../images/subscription-section/subscription-bg.jpg);
+  background-image: url(../images/Subscribe.jpg);
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -282,7 +282,7 @@ body {
   text-decoration: none;
 }
 .filter {
-  background-image: url(../images/catalog/catalog-bg.jpg);
+  background-image: url(../images/Фильтр.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   color:#FFFFFF;
