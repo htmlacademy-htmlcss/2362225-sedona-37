@@ -70,7 +70,7 @@ body {
 }
 
 .hero {
-  background-image: url(../images/welcome/index-background.jpg), url(../images/icon/hero-welcome.svg);
+  background-image: url(../images/icon/hero-welcome.svg), url(../images/welcome/index-background.jpg);
   background-repeat: no-repeat, no-repeat;
   background-size: 1200px 57px, 1200px 485px;
   background-position: center bottom, center top;
