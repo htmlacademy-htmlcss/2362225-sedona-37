@@ -19,6 +19,7 @@ body {
   font-size: 18px;
   line-height: 21px;
   color: #000000;
+  background: #ffffff;
 }
 
 .visually-hidden {
@@ -37,7 +38,6 @@ body {
 .navigation__buttons-item:last-child {
   width: 160px;
   height: 36px;
-
   background: #756157;
   border-radius: 4px;
 }
@@ -70,7 +70,7 @@ body {
 }
 
 .hero {
-  background-image: url(../images/hero-section/hero-divinder.svg), url(../images/hero-section/hero-bg.jpg);
+  background-image: url(../images/welcome/index-background.jpg), url(../images/icon/hero-welcome.svg);
   background-repeat: no-repeat, no-repeat;
   background-size: 1200px 57px, 1200px 485px;
   background-position: center bottom, center top;
